@@ -347,7 +347,7 @@ function updateChart1(data, selectedCountries=null, title = "") { //3 different 
     svg.select("#y-axis-title").remove();
     svg.select("#chart-title").remove();
 
-    console.log(selectedCountries);
+    //console.log(selectedCountries);
     if (selectedCountries) {
         //console.log(data);
         data = data.filter(d => selectedCountries.includes(d.Country));
