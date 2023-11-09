@@ -1,4 +1,4 @@
-"Continent","AQI_Value","CO_AQI_Value","Ozone_AQI_Value","NO2_AQI_Value","PM2.5_AQI_Value","AQI_Unhealthy","CO_Unhealthy","PM2.5_Unhealthy","Ozone_Unhealthy","NO2_Unhealthy"
+"Continent","AQI_Value","CO_AQI_Value","Ozone_AQI_Value","NO2_AQI_Value","PM2_5_AQI_Value","AQI_Unhealthy","CO_Unhealthy","PM2_5_Unhealthy","Ozone_Unhealthy","NO2_Unhealthy"
 "Africa",73.2,2.02,22.64,1.36,72.3,187,0,187,0,0
 "Asia",103.39,1.66,50.65,2.43,97.73,2085,0,1957,456,0
 "Europe",50.64,0.92,35.47,1.94,46.82,12,0,12,0,0
